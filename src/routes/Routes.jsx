@@ -3,8 +3,6 @@ import {
     BrowserRouter,
     Routes,
     Route,
-    Link,
-    Outlet
 } from "react-router-dom";
 import About from '../pages/About';
 
