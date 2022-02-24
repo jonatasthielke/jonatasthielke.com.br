@@ -6,26 +6,7 @@ import Typography from '@mui/material/Typography';
 import { CssBaseline, GlobalStyles } from '@mui/material';
 
 function Footer(props) {
-  const { description, title } = props;
-  console.log(GlobalStyles())
-
-
   return (
-    // <Box component="footer" sx={{ bgcolor: 'background.paper', py: 6 }}>
-    //   <Container maxWidth="lg">
-    //     <Typography variant="h6" align="center" gutterBottom>
-    //       {title}
-    //     </Typography>
-    //     <Typography
-    //       variant="subtitle1"
-    //       align="center"
-    //       color="text.secondary"
-    //       component="p"
-    //     >
-    //       {description}
-    //     </Typography>
-    //   </Container>
-    // </Box>
     <>
       <CssBaseline />
       <Box
