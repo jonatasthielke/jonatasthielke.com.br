@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
-import { CssBaseline, GlobalStyles } from '@mui/material';
+import { CssBaseline } from '@mui/material';
 
 function Footer(props) {
   return (
